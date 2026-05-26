@@ -1,4 +1,4 @@
-# L298N — Sample Code
+# L298N — dual H-bridge motor driver
 
 Sample sketch for the **[L298N Dual H-Bridge Motor Driver](https://circuit.rocks/products/2a-dual-motor-controller)**, sold by [Circuitrocks](https://circuit.rocks/).
 
