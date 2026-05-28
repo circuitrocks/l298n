@@ -55,7 +55,7 @@ The Arduino and L298N **must share GND**. Don't skip this — it's the most comm
 
 ## Datasheet
 
-[L298N datasheet (STMicroelectronics, PDF)](https://www.st.com/resource/en/datasheet/l298.pdf)
+[L298N datasheet & pinout (docs.circuit.rocks)](https://docs.circuit.rocks/motors/l298n/)
 
 ## Troubleshooting
 
